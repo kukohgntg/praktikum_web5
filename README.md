@@ -22,11 +22,11 @@ Tugas Codelab
 
     ![](media/81f08e9fc8727182d44eb0240dd7b250.png)
 
-5.  Dari gambar berikut ApiResponeFormatter digunakan untuk menformat data kita menjadi JSON.
+1.  Dari gambar berikut ApiResponeFormatter digunakan untuk menformat data kita menjadi JSON.
 
-    ![](media/5ca80db9e1e6bf41a6cd45e383e2906a.png)![](media/5ca80db9e1e6bf41a6cd45e383e2906a.png)
+    ![](media/5ca80db9e1e6bf41a6cd45e383e2906a.png)
 
-6.  Dari gambar berikut Main digunakan untuk entrypoint.
+2.  Dari gambar berikut Main digunakan untuk entrypoint.
 
     ![](media/f4a5802c5f74aac939a42caf3e2ece3f.png)
 
