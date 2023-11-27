@@ -39,7 +39,7 @@ class ProductRoutes
             echo $controller->update($id);
         }
         //jika request method delete dan path mengandung '/api/product/'
-        if ($method === 'DELLETE' && strpos($path, '/api/product/') === 0) {
+        if ($method === 'DELETE' && strpos($path, '/api/product/') === 0) {
             //extract id dari path
             $pathParts = explode('/', $path);
             $id = $pathParts[count($pathParts) - 1];
